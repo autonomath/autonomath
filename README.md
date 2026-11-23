@@ -10,6 +10,7 @@ A few recurring annoyances, a bit of curiosity, and some code. These are the Mac
 | --- | --- |
 | [Android File Transfer](https://autonomath.github.io/android-file-transfer-for-macos/) | Move files between Android and your Mac over USB. |
 | [TilePilot](https://autonomath.github.io/TilePilot/) | Window layouts, shortcuts, and work sets for macOS. |
+| [SessionRecall](https://autonomath.github.io/SessionRecall/) | Find the AI coding session you remember, across Codex, Claude Code and 14 other agents. |
 | [Lock Anyway](https://autonomath.github.io/lock-anyway/) | Idle locking even when other apps keep the Mac awake. |
 | [CPU Cap](https://github.com/autonomath/macos-cpucap/releases/latest) | Control how much CPU an application can use. |
 | [Log Video Player](https://autonomath.github.io/log-video-player/) | Watch Log footage in Rec.709 colour while preserving the original. |
